@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scpmu-purnea.vercel.app/sitemap.xml

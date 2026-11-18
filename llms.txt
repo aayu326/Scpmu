@@ -1,0 +1,23 @@
+# Soumya Chauhan Permanent Makeup Studio
+
+> Permanent makeup (PMU) by Soumya Chauhan in Purnea, Bihar, India. The studio is opening soon in Bhatta Bazar, Chitrawani Road, Purnea 854301. Services: eyebrow microblading, powder and ombre brows, lip blush, permanent eyeliner, BB glow, scalp micropigmentation, plus skin, hair and nail treatments. Pre-booking is open on WhatsApp.
+
+Contact: +91 72095 58552 (phone and WhatsApp). Instagram: https://www.instagram.com/schauhanpmu/
+
+## Main pages
+- [Home](https://scpmu-purnea.vercel.app/): Overview of the studio, services and how it works.
+- [About](https://scpmu-purnea.vercel.app/about.html): About Soumya Chauhan and how she works.
+- [Services](https://scpmu-purnea.vercel.app/services.html): All permanent makeup and beauty services.
+- [Gallery](https://scpmu-purnea.vercel.app/gallery.html): Before and after photos and videos.
+- [Pricing](https://scpmu-purnea.vercel.app/pricing.html): How quotes work. Every treatment is priced after a free consultation.
+- [FAQ](https://scpmu-purnea.vercel.app/faq.html): Safety, pain, healing, preparation and aftercare.
+- [Contact and booking](https://scpmu-purnea.vercel.app/contact.html): Booking form, phone, WhatsApp and map.
+
+## Services
+- [Eyebrow microblading and powder brows](https://scpmu-purnea.vercel.app/eyebrow-microblading-purnea.html)
+- [Lip blush and lip tint](https://scpmu-purnea.vercel.app/lip-blush-purnea.html)
+- [Permanent eyeliner](https://scpmu-purnea.vercel.app/permanent-eyeliner-purnea.html)
+- [Skin, hair and nail treatments](https://scpmu-purnea.vercel.app/skin-hair-nail-treatments-purnea.html)
+
+## Optional
+- [Privacy policy](https://scpmu-purnea.vercel.app/privacy-policy.html)
